@@ -1,0 +1,8 @@
+(coq.theory
+ (name PnP)
+ (package coq-pnp)
+ (flags -w -notation-overridden
+        -w -local-declaration
+        -w -redundant-canonical-projection
+        -w -projection-no-head-constant
+        -w -undo-batch-mode))
