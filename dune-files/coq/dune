@@ -1,6 +1,7 @@
 (coq.theory
  (name PnP)
  (package coq-pnp)
+ (modules :standard \ HTT)       ; @todo HTT does not compile
  (flags -w -notation-overridden
         -w -local-declaration
         -w -redundant-canonical-projection
