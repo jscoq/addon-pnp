@@ -1,6 +1,6 @@
 REPO = https://github.com/ilyasergey/pnp.git
 TAG = master
-COMMIT = ffd2437d94feeec093ece64568abfb8bb4af3c7f
+COMMIT = dc32861434e072ed825ba1952cbb7acc4a3a4ce0
 WORKDIR = workdir
 
 .PHONY: all get
