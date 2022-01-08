@@ -1,7 +1,7 @@
 {
     "name": "@jscoq/pnp",
-    "description": "Proofs and Programs book for jsCoq 0.13",
-    "version": "0.13.0",
+    "description": "Proofs and Programs book for jsCoq",
+    "version": "0.14.1",
     "files": ["README.md", "coq-pkgs"],    
     "repository": {
         "type": "git",
